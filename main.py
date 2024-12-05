@@ -8,3 +8,4 @@ print('N2: ', a.replace(' ',''))
     #3
 d = {'id':7, 'name':'Shiba', 'color':'brown', 'speed':'very slow'}
 print('N3: ', d.keys())
+print('N3: ', d.keys())
